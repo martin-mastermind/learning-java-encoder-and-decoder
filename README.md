@@ -1,2 +1,2 @@
 # Encoder and decoder
-Simple encoding/decoding programm. Using Java
+Simple encoding/decoding program. Using Java
